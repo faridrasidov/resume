@@ -54,8 +54,5 @@ The future is unwritten, and the possibilities are limitless. So, let's roll up 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=faridrasidov&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Streak" />
 </p>
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=faridrasidov&label=Profile%20Views&color=#00ff75&icon=0&pretty=true" alt="GitHub Streak" />
-</p>
 
 
